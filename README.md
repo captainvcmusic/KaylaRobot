@@ -2,7 +2,7 @@
 ### Telegram Group Manager Bot Written In Python Using Telethon+Pyrogram.
 
 <p align="center">
-    <a href="https://github.com/HuntingBots/AsunaRobot/stargazers"><img src="https://img.shields.io/github/stars/HuntingBots/AsunaRobot?label=Stars&style=flat-square&logo=github&color=teal" alt="Stars" /></a>
+    <a href="https://github.com/captainvcmusic/KaylaRobot/"><img src="https://telegra.ph/file/f03e745415032656eca3f.jpg" alt="Stars" /></a>
 </p>
 
  <a href="http://t.me/My_Asuna_Robot" alt="AsunaRobot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-AsunaRobot On Telegram!-blue" /> </a>
