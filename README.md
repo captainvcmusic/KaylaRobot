@@ -1,4 +1,4 @@
-## 🌟[AsunaRobot](https://telegram.dog/My_Asuna_Robot)🌟
+## 🌟[Kayla Robot](https://telegram.dog/My_Asuna_Robot)🌟
 ### Telegram Group Manager Bot Written In Python Using Telethon+Pyrogram.
 
 <p align="center">
